@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.AssemblyInfo.cs
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.sourcelink.json
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\bin\Debug\net8.0\withDictionaryTask.exe
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\bin\Debug\net8.0\withDictionaryTask.deps.json
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\bin\Debug\net8.0\withDictionaryTask.runtimeconfig.json
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\bin\Debug\net8.0\withDictionaryTask.dll
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\bin\Debug\net8.0\withDictionaryTask.pdb
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.dll
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\refint\withDictionaryTask.dll
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.pdb
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\withDictionaryTask.genruntimeconfig.cache
+C:\Users\User\source\repos\withDictionaryTask\withDictionaryTask\obj\Debug\net8.0\ref\withDictionaryTask.dll

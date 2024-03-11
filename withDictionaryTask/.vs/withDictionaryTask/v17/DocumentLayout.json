@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\withDictionaryTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F94B43-8745-457D-9211-821602AE9899}|withDictionaryTask\\withDictionaryTask.csproj|c:\\users\\user\\source\\repos\\withdictionarytask\\withdictionarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F94B43-8745-457D-9211-821602AE9899}|withDictionaryTask\\withDictionaryTask.csproj|solutionrelative:withdictionarytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F94B43-8745-457D-9211-821602AE9899}|withDictionaryTask\\withDictionaryTask.csproj|c:\\users\\user\\source\\repos\\withdictionarytask\\withdictionarytask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F94B43-8745-457D-9211-821602AE9899}|withDictionaryTask\\withDictionaryTask.csproj|solutionrelative:withdictionarytask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F94B43-8745-457D-9211-821602AE9899}|withDictionaryTask\\withDictionaryTask.csproj|c:\\users\\user\\source\\repos\\withdictionarytask\\withdictionarytask\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F94B43-8745-457D-9211-821602AE9899}|withDictionaryTask\\withDictionaryTask.csproj|solutionrelative:withdictionarytask\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\withDictionaryTask\\withDictionaryTask\\People.cs",
+              "RelativeDocumentMoniker": "withDictionaryTask\\People.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\withDictionaryTask\\withDictionaryTask\\People.cs",
+              "RelativeToolTip": "withDictionaryTask\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:50:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\withDictionaryTask\\withDictionaryTask\\Person.cs",
+              "RelativeDocumentMoniker": "withDictionaryTask\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\withDictionaryTask\\withDictionaryTask\\Person.cs",
+              "RelativeToolTip": "withDictionaryTask\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:53:37.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\withDictionaryTask\\withDictionaryTask\\Program.cs",
+              "RelativeDocumentMoniker": "withDictionaryTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\withDictionaryTask\\withDictionaryTask\\Program.cs",
+              "RelativeToolTip": "withDictionaryTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:25:41.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
